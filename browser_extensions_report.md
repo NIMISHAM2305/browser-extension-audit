@@ -1,19 +1,19 @@
-# 🔍 Suspicious Browser Extensions Audit Report
+#  Suspicious Browser Extensions Audit Report
 
-## 🛠️ Browser Used:
+##  Browser Used:
 Google Chrome (Version unknown, assumed up-to-date as of June 5, 2025)
 
-## 📋 Installed Extensions Reviewed:
+## Installed Extensions Reviewed:
 | Extension Name       | Publisher        | Purpose                        | Permissions         | Status     |
 |----------------------|------------------|--------------------------------|----------------------|------------|
 | React Developer Tools| Facebook (Meta)  | React development debugging    | DevTools access only |  Kept     |
 | Tabby Cat            | Unknown          | Virtual pet in new tabs        | Read browser tabs    |  Removed  |
 
-## 🗑️ Removed Extensions:
+##  Removed Extensions:
 1. **Tabby Cat**
    - **Reason:** Entertainment-only purpose, not essential. Slightly impacts performance with animations. Unclear publisher trust. Removed for better focus and security.
 
-## 🧠 What I Learned:
+##  What I Learned:
 - Browser extensions can:
   - Access and modify site data
   - Slow down browser performance
