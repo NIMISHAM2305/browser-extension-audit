@@ -3,7 +3,7 @@
 ##  Browser Used:
 Google Chrome
 
-##Opened  browser’s extensions:
+##  Opened  browser’s extensions:
 Chrome: chrome://extensions/
 
 ##  Screenshot:
