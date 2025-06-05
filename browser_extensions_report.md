@@ -6,8 +6,8 @@ Google Chrome (Version unknown, assumed up-to-date as of June 5, 2025)
 ## 📋 Installed Extensions Reviewed:
 | Extension Name       | Publisher        | Purpose                        | Permissions         | Status     |
 |----------------------|------------------|--------------------------------|----------------------|------------|
-| React Developer Tools| Facebook (Meta)  | React development debugging    | DevTools access only | ✅ Kept     |
-| Tabby Cat            | Unknown          | Virtual pet in new tabs        | Read browser tabs    | ❌ Removed  |
+| React Developer Tools| Facebook (Meta)  | React development debugging    | DevTools access only |  Kept     |
+| Tabby Cat            | Unknown          | Virtual pet in new tabs        | Read browser tabs    |  Removed  |
 
 ## 🗑️ Removed Extensions:
 1. **Tabby Cat**
