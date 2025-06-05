@@ -1,7 +1,14 @@
 #  Suspicious Browser Extensions Audit Report
 
 ##  Browser Used:
-Google Chrome (Version unknown, assumed up-to-date as of June 5, 2025)
+Google Chrome
+
+##Opened  browser’s extensions:
+Chrome: chrome://extensions/
+
+##  Screenshot:
+![Extensions Screenshot](google_extensions.png)
+
 
 ## Installed Extensions Reviewed:
 | Extension Name       | Publisher        | Purpose                        | Permissions         | Status     |
@@ -24,6 +31,3 @@ Google Chrome (Version unknown, assumed up-to-date as of June 5, 2025)
 ## 📈 Post-Removal Observation:
 - Cleaner, faster browser startup.
 - Reduced distractions on new tab pages.
-
-## 🖼️ Screenshot:
-![Extensions Screenshot](google_extensions.png)
