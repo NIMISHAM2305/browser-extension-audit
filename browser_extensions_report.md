@@ -26,4 +26,4 @@ Google Chrome (Version unknown, assumed up-to-date as of June 5, 2025)
 - Reduced distractions on new tab pages.
 
 ## 🖼️ Screenshot:
-![Extensions Screenshot](extensions.png)
+![Extensions Screenshot](google_extensions.png)
